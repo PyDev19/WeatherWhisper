@@ -2,3 +2,4 @@
 .vscode/
 .cache
 .ccls
+compile_commands.json
